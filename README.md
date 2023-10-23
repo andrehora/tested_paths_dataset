@@ -1,6 +1,6 @@
 [![pages-build-deployment](https://github.com/andrehora/tested_paths_dataset/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/andrehora/tested_paths_dataset/actions/workflows/pages/pages-build-deployment)
 
-### Dataset of the paper "Exploring Tested Paths to Improve Test Suites"
+### Dataset built with PathSpotter
 
 #### Python Standard Libraries
 
